@@ -20,5 +20,7 @@ public class FizzBuzz {
 				System.out.println(i);
 			}
 		}
+		
+		in.close();
 	}
 }
